@@ -11,7 +11,6 @@ Excel – Intermediate preprocessing and metadata support
 
 🧠 Key Insights
 Top Delay-Contributing Airlines and Airports
-
 Weather Delay Trends by Month
 Scheduled vs Actual Duration deviation patterns
 Top 10 Busiest Routes by flight volume
@@ -20,9 +19,7 @@ Weekly Arrival Delay Analysis
 
 Data Sources
 flights.csv: Over 5 million domestic flight records
-
 airlines.csv: Carrier ID and name mapping
-
 airports.csv: Airport code and location metadata
 
 📈 Skills Demonstrated
